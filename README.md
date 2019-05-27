@@ -1,6 +1,6 @@
 # Crystal OpenFaaS Template
 
-Inofficial OpenFaaS template for the crystal programming language.
+Unofficial OpenFaaS template for the crystal programming language.
 
 To find out more about the OpenFaaS templates see the [faas templates](https://github.com/openfaas/templates) and [faas-cli](https://github.com/openfaas/faas-cli).
 
